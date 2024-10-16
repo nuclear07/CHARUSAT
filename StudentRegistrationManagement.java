@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import javax.swing.*;
 
 class Collage {
-    public final static String c_name = "GPA";
+    public final static String c_name = "CHARUSAT";
 }
 
 class Student {
